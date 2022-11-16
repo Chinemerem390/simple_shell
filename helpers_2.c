@@ -1,7 +1,7 @@
 /*
  * File: helpers_2.c
- * Auth: MissMunawwarah
- *       Buikem1
+ * Auth: Chinemerem
+ *       Dunamyte
  */
 
 #include "shell.h"
