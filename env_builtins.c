@@ -1,7 +1,7 @@
 /*
  * File: env_builtins.c
- * Auth: MissMunawwarah
- *       Buikem1
+ * Auth: Chinemerem
+ *       Dunamyte
  */
 
 #include "shell.h"
