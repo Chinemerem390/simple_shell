@@ -1,7 +1,7 @@
 /*
  * File: str_funcs1.c
- * Auth: MissMunawwarah
- *       Buikem1
+ * Auth: Chineme
+ *       Dunamyte
  */
 
 #include "shell.h"
